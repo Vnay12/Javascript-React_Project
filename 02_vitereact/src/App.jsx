@@ -1,12 +1,11 @@
+import First from "./first"
 
 function App() {
  
 
   return (
     <>
-     <h1>
-      HI This Is Vinay
-     </h1>
+   <First />
     </>
   )
 }

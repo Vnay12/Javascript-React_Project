@@ -5,7 +5,7 @@ This is React learning !!!
                 01_basicreact
                 02_vitereact 
 
-/* This is only setup */
+# /* This is only setup */
 
 
 

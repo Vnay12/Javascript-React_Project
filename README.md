@@ -29,8 +29,10 @@ we have to create a custoom react as in how react reads all the functional or ob
 
 # Reading the concepts of hooks ( useState )
 
-                04
+                04_reactHooks
 
 1) we created a counter app 
 2) we added two buttons add and remove and made its function 
-3) we learned the concepts of hooks -> useState ( to the all the state components in the UI )
+3) we learned the concepts of hooks -> useState ( to change all the state components in the UI )
+
+

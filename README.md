@@ -1,18 +1,20 @@
 This is React learning !!!
 
 
+#  This is only setup 
 
                 01_basicreact
                 02_vitereact 
 
-# /* This is only setup */
 
 
 
+
+#  Creating own react library and udnerstanding how react works indepth 
 
                 03_customreact 
 
-/* Creating own react library and udnerstanding how react works indepth */
+
 
 we have to create a custoom react as in how react reads all the functional or object component passed as html tag in return statment 
 

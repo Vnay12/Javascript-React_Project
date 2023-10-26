@@ -36,3 +36,10 @@ we have to create a custoom react as in how react reads all the functional or ob
 3) we learned the concepts of hooks -> useState ( to change all the state components in the UI )
 
 
+
+
+# Reading the concepts of Virtual Dom, React Fiber and Reconciliation 
+
+                05_virtualDOM 
+            
+1) Created a Note for explaination virtual DOM, React Fiber and Reconciliation 

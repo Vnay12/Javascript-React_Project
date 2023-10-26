@@ -1,0 +1,36 @@
+            ReactDom.createRoot
+
+1) createRoot creates it own DOM like structure and which is same to browser DOM ( browser has its own DOM )
+
+2) its compares the main Dom and virtual DOM and only updates those which has changed 
+
+on the other hand 
+
+web broswer completely repaste the whole DOM thats why there is loading when we change something also called reload
+
+3) question : A) what if your component is dependant on some network or API and there is requets of change in the componenet one after another ? 
+
+B) what if is there any way to drop those request and only update the priority one and the latest one ? 
+
+-----> Hence react fiber is used as a algorithm to control the virtual DOM 
+
+NOTE : virtual dom is still in use ( not that much) but react fiber is the algorthm behind the virtual dom 
+
+
+4) what is reconciliation ? 
+
+-->> The algorithm React uses to differentiate one tree with another to determine which part to be changed.
+ web browser Dom and react tree DOM 
+
+ Reconciliation is what called virtual DOM 
+
+
+ Note : Now fiber is used inplace of reconciliation for virtual DOM 
+ 
+ In a UI, it's not necessary for every date to applied immediately; in fact, can be wasteful, causing frames to and degrading the user experience.
+
+ pros : 
+1) pause work and come back to it later
+2) assign priority to different types of work
+3) reuse previously completed work.
+4) abort work if it's no longer needed.

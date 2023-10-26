@@ -10,7 +10,7 @@ This is React learning !!!
 
 
 
-#  Creating own react library and udnerstanding how react works indepth 
+#  Creating own react library and understanding how react works indepth 
 
                 03_customreact 
 
@@ -27,5 +27,10 @@ we have to create a custoom react as in how react reads all the functional or ob
 
 
 
+# Reading the concepts of hooks ( useState )
 
                 04
+
+1) we created a counter app 
+2) we added two buttons add and remove and made its function 
+3) we learned the concepts of hooks -> useState ( to the all the state components in the UI )

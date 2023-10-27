@@ -62,3 +62,12 @@ we have to create a custoom react as in how react reads all the functional or ob
 
 1) bgChanger 
 2) onCLick button 
+
+
+# Reading and implementation password generator
+                08_Project_2
+
+1) we have created password generator 
+2) we learned about useCallback for better optimization 
+3) useEffect for render 
+4) useRef 

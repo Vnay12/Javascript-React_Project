@@ -71,3 +71,10 @@ we have to create a custoom react as in how react reads all the functional or ob
 2) we learned about useCallback for better optimization 
 3) useEffect for render 
 4) useRef 
+
+# Reading and implementation CutomHooks
+                09_Project_3
+
+1) we made a custom hook 
+
+------ Incomplete ------- 

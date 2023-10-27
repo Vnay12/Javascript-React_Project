@@ -78,3 +78,10 @@ we have to create a custoom react as in how react reads all the functional or ob
 1) we made a custom hook 
 
 ------ Incomplete ------- 
+
+
+# Reading and implementation react Router
+                010_Project_3
+
+1) 
+

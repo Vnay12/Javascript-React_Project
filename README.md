@@ -43,3 +43,14 @@ we have to create a custoom react as in how react reads all the functional or ob
                 05_virtualDOM 
             
 1) Created a Note for explaination virtual DOM, React Fiber and Reconciliation 
+
+
+# Reading and implementation of tailwind and props 
+
+                06_tailwind & Props 
+
+1) Tailwind setuo
+2) Tailwind some features
+3) we created a folder called component and a file called Card where we have a basic return as a Card 
+4) we gave that function a prop 
+5) we can pass prop whenever we call it 

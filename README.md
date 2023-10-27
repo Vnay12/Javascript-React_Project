@@ -54,3 +54,11 @@ we have to create a custoom react as in how react reads all the functional or ob
 3) we created a folder called component and a file called Card where we have a basic return as a Card 
 4) we gave that function a prop 
 5) we can pass prop whenever we call it 
+
+
+# Reading and implementation background changer 
+
+                07_Project_1
+
+1) bgChanger 
+2) onCLick button 
